@@ -39,7 +39,7 @@ body {
   position: relative;
   overflow: hidden;
 }
-@media screen and (max-width: 9000px) and (min-width: 628px) {
+@media only screen and (min-width : 1224px) {
     .block-banner {
         display: flex!important;
         align-items: center;
