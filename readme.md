@@ -2,7 +2,9 @@ Mobile swipe gallery (modern mobile browsers only).
 ===========
 
 This gallery uses css3 for comfort UX while changing images.
-Gallery is 'endless', if last image is reached - the first one wil become next.
+
+Gallery is 'endless', if last image is reached - the first one will become next.
+
 Gallery utilises only 3 img tags, so it aimed to be resource-efficient and may be used to display large amounts of images
 
  For more comfort use:
